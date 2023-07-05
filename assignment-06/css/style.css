@@ -1,13 +1,13 @@
 h1 
 {
-  color: aquamarine;
+  color: rgb(127, 255, 212);
 }
 .square{
      width: 50%;
-     height: 200px;
+     height: 100px;
 }
 #green {
-    background-color: greenyellow;
+    background-color: rgb(47, 245, 255);
 }
 #yellow {
     background-color: rgb(185, 224, 126);
