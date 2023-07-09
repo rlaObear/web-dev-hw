@@ -48,8 +48,12 @@ body {
 
 /* Site Links */
 .site-links {
+    margin: 0 1em;
 
-
+}
+.site-links a {
+    display: block;
+    margin: 1em;
 }
 
 /* optional links to social accts */
