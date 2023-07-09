@@ -23,6 +23,18 @@ p::first-letter {
 a {
     background-color: aqua;
     color: rgb(0, 4, 4);
+    padding: 10px;
+}
+a:hover {
+    font-style: italic;
+}
+a:visited {
+    color: blue;
+}
+a:active {
+    background-color: rgb(237, 240, 242);
+    color: rgb(244, 8, 8);
+    padding: 10%;
 }
 .square {
     width: 50%;
