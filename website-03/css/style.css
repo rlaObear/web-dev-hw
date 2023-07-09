@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&display=swap');
 
 body {
-    font-family: lato;
+    margin: 0;
+
+    font-family: 'lato', sans-serif
     font-size: 1.25em;
 }
 .navigation {
@@ -28,4 +30,5 @@ body {
 .main {
     background-color: antiquewhite;
     margin-left: 300px;
+    padding: 1em;
 }
