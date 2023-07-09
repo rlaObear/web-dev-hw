@@ -35,11 +35,15 @@ body {
 
     margin: auto
 
-    border ;
+    border 5px solid;
     border-radius: 100%;
 
     line-height: 150px;
     color: black;
+}
+.logo:hover {
+    border-color: cyan;
+
 }
 
 /* Site Links */
