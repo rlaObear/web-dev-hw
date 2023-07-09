@@ -2,7 +2,10 @@
 
 /* page-wide */
 body {
-    
+background-color: rgb(90, 244, 234);
+color: black;
+padding: 5px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
   color: rgb(230, 21, 111); padding: right 100px;
 }
