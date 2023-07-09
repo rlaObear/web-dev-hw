@@ -11,7 +11,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 /* paragraph-content */
 .text {
 background-color: rgb(241, 194, 230); 
-color: rgba(140, 5, 237, 0.777); 
+color: rgba(74, 2, 126, 0.777); 
 padding: 10px;  
 }
 p::first-letter {
