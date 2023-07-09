@@ -11,14 +11,14 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 /* paragraph-content */
 .text {
 background-color: rgb(198, 134, 244); 
-color: rgb(9, 11, 11); 
+color: rgb(21, 233, 17); 
 padding: 10px;  
 }
 p::first-letter {
     font-family: 'Clicker Script', cursive;
     font-size: 2em;
     font-weight: 200;
-    color: rgb(249, 244, 248);
+    color: rgb(140, 20, 116);
 }
 .square {
     width: 50%;
