@@ -3,7 +3,7 @@
 /* page-wide */
 body {
 background-color: rgb(7, 242, 230);
-color: black;
+color: rgb(251, 248, 248);
 padding: 5px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -11,7 +11,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 /* paragraph-content */
 .text {
 background-color: rgb(198, 134, 244); 
-color: white
+color: rgba(253, 254, 253, 0.777); 
 padding: 10px;  
 }
 p::first-letter {
