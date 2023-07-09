@@ -14,3 +14,6 @@ background-color: rgb(239, 233, 143);
 color: rgb(9, 11, 11); 
 padding: 10px;  
 }
+p::first-letter {
+    font-family: 'Clicker Script', cursive;
+}
