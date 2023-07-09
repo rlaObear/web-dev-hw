@@ -14,13 +14,13 @@ body {
     ----------------------------*/
 
 .navigation {
-    width: 300px; 
-    background-color: rgb(17, 19, 18); 
+    width: 300px;
+    background-color: rgb(17, 19, 18);
     height: 100%;
     
     position: fixed;
-    top: 0; 
-    left: 0;
+    top: 0px; 
+    left: 0px;
 }
 /* Logo and title */
 
