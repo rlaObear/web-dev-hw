@@ -17,3 +17,7 @@ padding: 10px;
 p::first-letter {
     font-family: 'Clicker Script', cursive;
 }
+.square{
+    width: 50%;
+    height: 100px;
+}
