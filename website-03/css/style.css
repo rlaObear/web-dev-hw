@@ -14,8 +14,8 @@ body {
     ----------------------------*/
 
 .navigation {
-    width: 300px;
     background-color: rgb(17, 19, 18);
+    width: 300px;
     height: 100%;
     
     position: fixed;
