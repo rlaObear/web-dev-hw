@@ -11,7 +11,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 /* paragraph-content */
 .text {
 background-color: rgb(241, 194, 230); 
-color: rgba(2, 7, 2, 0.777); 
+color: rgba(140, 5, 237, 0.777); 
 padding: 10px;  
 }
 p::first-letter {
@@ -29,11 +29,11 @@ a:hover {
     font-style: italic;
 }
 a:visited {
-    color: blue;
+    color: rgb(219, 22, 22);
 }
 a:active {
     background-color: rgb(237, 240, 242);
-    color: rgb(244, 8, 8);
+    color: rgb(235, 28, 225);
     padding: 10%;
 }
 .square {
