@@ -10,7 +10,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 /* paragraph-content */
 .text {
-background-color: burlywood; 
-color: aqua; 
+background-color: rgb(239, 233, 143); 
+color: rgb(9, 11, 11); 
 padding: 10px;  
 }
