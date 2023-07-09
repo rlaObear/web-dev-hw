@@ -1,7 +1,7 @@
-*/----------------------------->
+/*----------------------------->
     PAGE WIDE STYLE          
--------------------------------
- */
+------------------------------->
+*/
 @import url
 ('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&display=swap');
 
@@ -12,20 +12,27 @@ body {
 /*-------------------------------->
     NAVIGATION STYLE
     ----------------------------*/
+
 .navigation {
  width: 300px;
- background-color: aquamarine;
+ background-color: rgb(127, 255, 212);
  height: 100%;
 
  position: fixed;
  top: 0;
  left: 0;
 }
+/* Logo and title */
+
+/* Site Links */
+
+/* optional links to social accts */
 
 
-/*-------------------------------->
+
+/*-------------------------->
     MAIN CONTENT
-    ----------------------------*/
+----------------------------*/
 
 .main {
     background-color: antiquewhite;
