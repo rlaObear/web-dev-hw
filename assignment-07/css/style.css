@@ -20,6 +20,10 @@ p::first-letter {
     font-weight: 200;
     color: rgb(140, 20, 116);
 }
+a {
+    background-color: aqua;
+    color: rgb(0, 4, 4);
+}
 .square {
     width: 50%;
     height: 100px;
