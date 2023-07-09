@@ -20,10 +20,15 @@ body {
 .site-info {
 
 }
+.logo {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
 
 /* Site Links */
 .site-links {
-    
+
 }
 
 /* optional links to social accts */
