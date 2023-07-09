@@ -31,8 +31,10 @@ body {
 
     margin: auto
 
-    border: ;
+    border ;
     border-radius: 100%;
+
+    line-hieght 150px;
 }
 
 /* Site Links */
