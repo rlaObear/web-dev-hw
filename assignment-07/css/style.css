@@ -16,6 +16,7 @@ padding: 10px;
 }
 p::first-letter {
     font-family: 'Clicker Script', cursive;
+    font-size: 4em;
 }
 .square{
     width: 50%;
