@@ -1,20 +1,31 @@
-h1 
-{
-  color: rgb(230, 21, 111); padding: right 100px;
+*/----------------------------->
+    PAGE WIDE STYLE          
+-------------------------------
+ */
+@import url
+('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&display=swap');
+
+body {
+    font-family: lato, sans-serif;
+    font-size: 1.25em;
 }
-.square{
-     width: 50%;
-     height: 100px;
+/*-------------------------------->
+    NAVIGATION STYLE
+    ----------------------------*/
+.navigation {
+width: 300px;
 }
-#green {
-    background-color: rgb(47, 245, 255);
-}
-#yellow {
-    background-color: rgb(185, 224, 126);
-}
-#lightbrown {
-    background-color: rgb(225, 231, 200);
-}
-#sand {
-    background-color: rgb(248, 250, 244);
+
+
+
+
+
+
+
+/*-------------------------------->
+    MAIN CONTENT
+    ----------------------------*/
+
+.main {
+
 }
