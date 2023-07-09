@@ -1,6 +1,9 @@
-/
 @import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&family=Clicker+Script&display=swap');
-{
+
+/* page-wide */
+body {
+    
+}
   color: rgb(230, 21, 111); padding: right 100px;
 }
 .square{
