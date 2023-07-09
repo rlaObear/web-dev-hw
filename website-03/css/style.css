@@ -18,17 +18,18 @@ body {
 }
 /* Logo and title */
 .site-info {
-    margin: ;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-right: 2em;
-    margin-left: 2em;
+    margin: 2em;
+
+    text-align: center;
+    font-size: 200%;
 
 }
 .logo {
     background-color: blue;
     width: 150px;
     height: 150px;
+
+    margin: auto
 
     border: ;
     border-radius: 100%;
