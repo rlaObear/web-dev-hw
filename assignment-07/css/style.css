@@ -20,4 +20,5 @@ p::first-letter {
 .square{
     width: 50%;
     height: 100px;
+    content-visibility: center;
 }
