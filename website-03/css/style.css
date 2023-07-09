@@ -30,6 +30,11 @@ body {
 
 .main {
     background-color: antiquewhite;
+    overflow: auto;
     margin-left: 300px;
     padding: 1em;
+}
+.banner {
+    width: 100%;
+    height: auto;
 }
