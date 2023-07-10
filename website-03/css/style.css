@@ -17,6 +17,8 @@ body {
     height: 100%;
 
     position: fixed;
+    top: 0px;
+    left: 0px;
 }
 /* Logo and title */
 /* optional links to social accts */
@@ -30,4 +32,6 @@ body {
 ----------------------------*/
 .main {
     background-color: burlywood;
+    margin-left: 300px;
+    padding: 1em;
 }
