@@ -1,42 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
-
 body {
     margin: 0;
-
-    font-family: 'Lato', sans-serif;
+    font-family: 'lato', sans-serif;
     font-size: 1.25em;
 }
-.navigation 
-{
-  background-color: rgb(17, 19, 18);
-  width: 300px;
-  height: 100%;
-  position: fixed;
-  top: 0px;
-  left: 0px;
+.navigation {
+    background-color: honeydew;
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
 .navigation a {
     text-decoration: none;
-    color: blueviolet;
+    color: chartreuse;
 }
 /* Logo and title */
 .site-info {
     margin: 2em auto;
-    text-align: center; 
+    text-align: center;
     font-size: 200%;
 }
-
 .logo {
-    background-color: blue; 
-    width: 150px; 
-    height: 150px; 
-
-    margin: 0 auto; 
-
-    border 5px solid; 
-    border-radius: 100%;
-
-    line-height: 150px; 
+    background-color: ghostwhite;
+    width: 150px;
+    height: 150%;
+    margin: auto;
+    border: 5px solid;
+    border-bottom: 100%;
+    line-break: 150px;
     color: black;
     text-transform: uppercase;
 }
@@ -51,7 +44,7 @@ body {
     display: block;
     margin: 1em;
 }
-.site-links a :hover{
+.site-links a :hover {
     margin: 2.5em;
 }
 /* optional links to social accts */
@@ -59,9 +52,8 @@ body {
 /*-------------------------->
     MAIN CONTENT
 ----------------------------*/
-
 .main {
-    background-color: antiquewhite;
+    background-color: lemonchiffon;
     overflow: auto;
     margin-left: 300px;
     padding: 1em;
