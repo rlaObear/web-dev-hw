@@ -41,6 +41,12 @@ body {
     border-radius: 100%;
     
     line-height: 150px;
+
+}
+}
+.logo:hover {
+    border-color: rgb(228, 31, 38);
+
 }
 
 /* optional links to social accts */
