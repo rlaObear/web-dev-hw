@@ -44,7 +44,7 @@ body {
     color: red;
 }
 .logo:hover {
-    border-color: blue;
+    border: 5px; #999;
 }
 
 /* optional links to social accts */
