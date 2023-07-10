@@ -41,7 +41,7 @@ body {
     border-color: cyan;
 }
 /* Site Links */
-.site-links a {
+.site-links {
     margin: 0 1em;
 }
 .site-links a {
