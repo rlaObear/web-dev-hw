@@ -37,8 +37,7 @@ body {
 
     margin: 100%
 
-    border 5px;
-    color: black;
+    border 5px solid #333;
     border-radius: 100%;
     
     line-height: 150px;
