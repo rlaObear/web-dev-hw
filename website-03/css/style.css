@@ -37,14 +37,14 @@ body {
 
     margin: 100%
 
-    border 5px solid #333;
+    border:
     border-radius: 100%;
     
     line-height: 150px;
     color: red;
 }
 .logo:hover {
-    border-color: rgb(127, 61, 219);
+    border-color: blue;
 }
 
 /* optional links to social accts */
