@@ -28,6 +28,8 @@ body {
     background-color: chartreuse;
     width: 150px;
     height: 150px;
+    border: ;
+    border-radius: 100%;
 }
 
 /* optional links to social accts */
