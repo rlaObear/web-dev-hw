@@ -24,6 +24,11 @@ body {
 .site-info {
 
 }
+.logo {
+    background-color: chartreuse;
+    width: 150px;
+    height: 150px;
+}
 
 /* optional links to social accts */
 .site-links {
