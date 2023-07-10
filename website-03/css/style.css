@@ -23,6 +23,8 @@ body {
 /* Logo and title */
 .site-info {
     margin: 2em;
+    text-align: center;
+    font-size: 200%;
 }
 .logo {
     background-color: chartreuse;
