@@ -39,13 +39,10 @@ body {
 }
 .logo:hover {
     border-color: cyan;
-
 }
-
 /* Site Links */
-.site-links {
+.site-links a {
     margin: 0 1em;
-
 }
 .site-links a {
     display: block;
