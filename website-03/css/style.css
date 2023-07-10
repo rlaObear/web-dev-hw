@@ -35,6 +35,9 @@ body {
     margin-left: 300px;
     padding: 1em;
 
-    overflow: auto;
-    
+    overflow: auto;   
+}
+.banner {
+    width: 100%;
+    height: auto;
 }
