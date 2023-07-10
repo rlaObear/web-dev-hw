@@ -22,14 +22,18 @@ body {
 }
 /* Logo and title */
 .site-info {
-
+    margin: 2em;
 }
 .logo {
     background-color: chartreuse;
     width: 150px;
     height: 150px;
+
+    margin: 100%
+
     border: ;
     border-radius: 100%;
+    
 }
 
 /* optional links to social accts */
