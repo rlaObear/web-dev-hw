@@ -12,7 +12,7 @@ body {
     \    NAVIGATION STYLE     \
     --------------------------*/
 .navigation {
-    background-color: rgb(81, 216, 216);
+    background-color: aqua;
     width: 300px;
     height: 100%;
 
@@ -37,7 +37,7 @@ body {
 
     margin: 100%
 
-    border: 5px #000;
+    border: 5px solid;
     border-radius: 100%;
     
     line-height: 150px;
