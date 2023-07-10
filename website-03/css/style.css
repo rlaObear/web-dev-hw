@@ -34,4 +34,7 @@ body {
     background-color: burlywood;
     margin-left: 300px;
     padding: 1em;
+
+    overflow: auto;
+    
 }
