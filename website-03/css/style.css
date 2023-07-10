@@ -1,64 +1,27 @@
+/*----------------------->
+\     PAGE-WIDE STYLE    \
+-------------------------*/
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 body {
     margin: 0;
     font-family: 'lato', sans-serif;
     font-size: 1.25em;
 }
+    /*------------------------->
+    \    NAVIGATION STYLE     \
+    --------------------------*/
 .navigation {
-    background-color: honeydew;
+    background-color: aqua;
     width: 300px;
-    height: 100%;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-}
-.navigation a {
-    text-decoration: none;
-    color: chartreuse;
 }
 /* Logo and title */
-.site-info {
-    margin: 2em auto;
-    text-align: center;
-    font-size: 200%;
-}
-.logo {
-    background-color: ghostwhite;
-    width: 150px;
-    height: 150%;
-    margin: auto;
-    border: 5px solid;
-    border-bottom: 100%;
-    line-break: 150px;
-    color: black;
-    text-transform: uppercase;
-}
-.logo:hover {
-    border-color: cyan;
-}
-/* Site Links */
-.site-links {
-    margin: 0 1em;
-}
-.site-links a {
-    display: block;
-    margin: 1em;
-}
-.site-links a :hover {
-    margin: 2.5em;
-}
 /* optional links to social accts */
+
+
+
+
 
 /*-------------------------->
     MAIN CONTENT
 ----------------------------*/
-.main {
-    background-color: lemonchiffon;
-    overflow: auto;
-    margin-left: 300px;
-    padding: 1em;
-}
-.banner {
-    width: 100%;
-    height: auto;
-}
