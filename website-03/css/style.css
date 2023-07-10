@@ -35,7 +35,8 @@ body {
 
     border: ;
     border-radius: 100%;
-    line_height: 150px
+    
+    line-height: 150px;
 }
 
 /* optional links to social accts */
