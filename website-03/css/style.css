@@ -19,7 +19,12 @@ body {
     color: blueviolet;
 }
 /* Logo and title */
-.site-info {margin: 2em auto; text-align: center; font-size: 200%;}
+.site-info {
+    margin: 2em auto;
+    text-align: center; 
+    font-size: 200%;
+}
+
 .logo {
     background-color: blue; 
     width: 150px; 
@@ -27,7 +32,7 @@ body {
 
     margin: 0 auto 1em; 
     border 5px solid;
-    
+
     border-radius: 100%; 
     line-height: 150px; 
     color: black;
