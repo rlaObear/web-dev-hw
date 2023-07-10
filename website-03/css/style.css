@@ -20,6 +20,10 @@ body {
     top: 0px;
     left: 0px;
 }
+.navigation a {
+    text-decoration: none;
+    color: mediumslateblue;
+}
 /* Logo and title */
 .site-info {
     margin: 2em;
