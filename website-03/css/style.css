@@ -4,7 +4,7 @@
 body {
     margin: 0;
 
-    font-family: 'lato', sans-serif
+    font-family: 'lato', sans-serif;
     font-size: 1.25em;
 }
 
@@ -59,8 +59,6 @@ body {
     margin: 2.5em;
 }
 /* optional links to social accts */
-
-
 
 /*-------------------------->
     MAIN CONTENT
