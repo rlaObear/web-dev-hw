@@ -34,6 +34,8 @@ body {
     text-decoration: none;
     color: mediumslateblue;
 }
+@media {width: <= ;1280.px
+}
 /* Logo and title */
 .site-info {
     margin: 2em;
