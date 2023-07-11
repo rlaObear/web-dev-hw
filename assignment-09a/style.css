@@ -1,0 +1,88 @@
+/*----------------------->
+\     PAGE-WIDE STYLE    \
+-------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+body {
+    margin: 0;
+    font-family: 'lato', sans-serif;
+    font-size: 1.25em;
+}
+    /*------------------------->
+    \    NAVIGATION STYLE     \
+    --------------------------*/
+.nav {
+    background-color: rgb(197, 150, 240);
+    text-align: center;
+}
+.nav a {
+    background-color: rgb(189, 245, 224);
+    text-align: center;
+    padding: 5px;
+}
+
+.navigation {
+    background-color: aqua;
+    width: 300px;
+    height: 100%;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.navigation a {
+    text-decoration: none;
+    color: mediumslateblue;
+}
+/* Logo and title */
+.site-info {
+    margin: 2em;
+    text-align: center;
+    font-size: 200%;
+}
+.logo {
+    background-color: chartreuse;
+    width: 150px;
+    height: 150px;
+
+    margin: 100%
+
+    border: 5px solid;
+    border-radius: 100%;
+    
+    line-height: 150px;
+    color: #444;
+}
+.logo:hover {
+    border-color: blue;
+}
+
+/* optional links to social accts */
+
+.site-links {
+    margin: 0 1em;
+
+}
+.site-links a {
+    display: block;
+    margin: 1em;
+}
+.site-links a :hover{
+    margin: 2.5em;
+}
+
+
+/*-------------------------->
+    MAIN CONTENT
+----------------------------*/
+.main {
+    background-color: rgb(240, 250, 164);
+    margin-left: 300px;
+    padding: 1em;
+
+    overflow: auto;   
+}
+.banner {
+    width: 100%;
+    height: auto;
+}
