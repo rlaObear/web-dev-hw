@@ -89,7 +89,7 @@ body {
 .form {
     background-color: coral;
     margin-left: 300px;
-    width: 400px;
+    width: auto;
     height: auto;
     padding: 1em;
 
