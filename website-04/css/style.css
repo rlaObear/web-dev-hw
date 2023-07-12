@@ -89,5 +89,8 @@ body {
 .form {
     background-color: coral;
     margin-left: 300px;
+    padding: 1em;
+
+    overflow: auto; 
     
 }
