@@ -87,5 +87,7 @@ body {
     height: auto;
 }
 .form {
-    margin-left: 400px;
+    background-color: coral;
+    margin-left: 350px;
+    padding-bottom: 10px;
 }
