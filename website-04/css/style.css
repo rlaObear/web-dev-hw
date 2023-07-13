@@ -99,7 +99,7 @@ body {
 .charactergallery {
     margin-left: 300px;
     border: 2px solid;
-    width: auto;
+    width: 450px;
     height: auto;
 }  
 .charactergallery: hover 
