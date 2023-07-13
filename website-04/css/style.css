@@ -99,8 +99,8 @@ body {
 .charactergallery {
     margin-left: 300px;
     border: 2px solid;
+    float left: ;
     width: 450px;
-    height: auto;
 }  
 .charactergallery: hover 
 {
