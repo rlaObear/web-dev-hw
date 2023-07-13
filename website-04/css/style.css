@@ -103,19 +103,16 @@ body {
     width: 450px;
    
 }  
-.charactergallery: hover 
-{
+.charactergallery: hover {
     border: 1px solid #777;
 }
   
-.charactergallery: img
-{
-    width: 50%;
+.charactergallery: img {
+    width: 100%;
     height: auto;
 }
   
-.desc 
-{
+.desc {
     padding: 15px;
     text-align: center;
 }
