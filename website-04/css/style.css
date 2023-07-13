@@ -96,14 +96,12 @@ body {
     overflow: auto; 
     
 }
-.charactergallery 
-{
-    margin-left:  300px
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-}
-  
+.charactergallery {
+    margin-left: 300px;
+    border: 2px solid; salmon;
+    width: auto;
+    height: 180px;
+}  
 .charactergallery: hover 
 {
     border: 1px solid #777;
