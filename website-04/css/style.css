@@ -96,7 +96,7 @@ body {
     overflow: auto; 
     
 }
-div.charactergallery 
+.charactergallery 
 {
     margin-left:  300px
     border: 1px solid #ccc;
@@ -104,18 +104,18 @@ div.charactergallery
     width: 180px;
 }
   
-div.charactergallery: hover 
+.charactergallery: hover 
 {
     border: 1px solid #777;
 }
   
-div.charactergallery: img
+.charactergallery: img
 {
     width: 100%;
     height: auto;
 }
   
-div.desc 
+.desc 
 {
     padding: 15px;
     text-align: center;
