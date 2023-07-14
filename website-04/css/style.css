@@ -99,12 +99,12 @@ body {
 .charactergallery {
     margin-left: 300px;
     border: 2px solid;
-    float: center;
+    float: left;
     width: 350px;
    
 }  
 .charactergallery: hover {
-    border: 1px solid #777;
+    border: 3px solid #777;
 }
   
 .charactergallery: img {
@@ -113,6 +113,6 @@ body {
 }
   
 .desc {
-    padding: 1px;
+    padding: 10px;
     text-align: center;
 }
