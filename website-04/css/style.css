@@ -78,7 +78,7 @@ body {
 .main {
     background-color: darksalmon;
     margin-left: 300px;
-    padding: 1em;
+    padding: 2em;
 
     overflow: auto;   
 }
