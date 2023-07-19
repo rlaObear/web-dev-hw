@@ -99,7 +99,7 @@ body {
     margin-left: 300px;
     border: 2px solid;
     float: left;
-    width: 300px;
+    width: 350px;
    
 }  
 .charactergallery: hover {
@@ -108,7 +108,7 @@ body {
   
 .charactergallery: img {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
   
 .desc {
