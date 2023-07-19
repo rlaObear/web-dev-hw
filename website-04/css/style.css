@@ -89,7 +89,7 @@ body {
 .form {
     background-color: whitesmoke;
     margin-left: 300px;
-    width: auto;
+    width: 100%;
     height: auto;
     padding: 1em;
 
