@@ -107,9 +107,9 @@ body {
 }
   
 .charactergallery: img {
-    float:center;
-    width: 100%;
+    width: 355px;
     height: auto%;
+
 }
   
 .desc {
