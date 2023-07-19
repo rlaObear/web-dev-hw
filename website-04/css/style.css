@@ -95,13 +95,11 @@ body {
     overflow: auto; 
     
 }
-.charactergallery {
+.div.charactergallery {
     margin-left: 300px;
     border: 2px solid;
     float: left;
     width: 355px;
-
-    overflow: auto;
    
 }  
 .charactergallery: hover {
