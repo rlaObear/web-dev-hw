@@ -78,7 +78,7 @@ body {
 .main {
     background-color: darksalmon;
     margin-left: 300px;
-    padding: 2em;
+    padding: em;
 
     overflow: auto;   
 }
@@ -111,8 +111,7 @@ body {
     height: auto;
 }
   
-.desc a {
-    background-color: aqua;
+.desc {
     padding: 10px;
     text-align: center;
 }
