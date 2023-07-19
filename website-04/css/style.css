@@ -111,7 +111,7 @@ body {
     height: auto;
 }
   
-.desc {
+.desc a {
     padding: 10px;
     text-align: center;
 }
