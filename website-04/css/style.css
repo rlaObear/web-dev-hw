@@ -98,7 +98,7 @@ body {
 .charactergallery {
     margin-left: 300px;
     border: 2px solid;
-    float: center;
+    float: left;
     width: 355px;
    
 }  
@@ -107,6 +107,7 @@ body {
 }
   
 .charactergallery: img {
+    float:center;
     width: 100%;
     height: auto%;
 }
