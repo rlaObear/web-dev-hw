@@ -115,3 +115,23 @@ body {
     padding: 10px;
     text-align: center;
 }
+.logogallery {
+    margin-left: 300px;
+    border: 2px solid;
+    float: left;
+    width: 350px;
+   
+}  
+.logogallery: hover {
+    border: 3px solid #777;
+}
+  
+.logogallery: img {
+    width: 100%;
+    height: auto;
+}
+  
+.desc {
+    padding: 10px;
+    text-align: center;
+}
