@@ -56,7 +56,22 @@ body {
 .logo:hover {
     border-color: blue;
 }
+
 /* optional links to social accts */
+
+.site-links {
+    margin: 0 1em;
+
+}
+.site-links a {
+    display: block;
+    margin: 1em;
+}
+.site-links a :hover{
+    margin: 2.5em;
+}
+
+
 /*-------------------------->
     MAIN CONTENT
 ----------------------------*/
