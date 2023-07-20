@@ -95,10 +95,10 @@ body {
     overflow: auto; 
     
 }
-.div.charactergallery {
+.charactergallery {
     margin-left: 300px;
     border: 2px solid;
-    float: left;
+    float: center;
     width: 355px;
    
 }  
