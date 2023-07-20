@@ -63,7 +63,7 @@ body {
 .main {
     background-color: darksalmon;
     margin-left: 300px;
-    padding: 2px;
+    padding: em;
 
     overflow: auto;   
 }
