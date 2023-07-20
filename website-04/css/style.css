@@ -98,8 +98,8 @@ body {
 .charactergallery {
     margin-left: 300px;
     border: 2px solid;
-    float: center;
-    width: 300px;
+    float: padding: 1px; center;
+    width: 355px;
    
 }  
 .charactergallery: hover {
