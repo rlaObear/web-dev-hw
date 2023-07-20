@@ -56,29 +56,14 @@ body {
 .logo:hover {
     border-color: blue;
 }
-
 /* optional links to social accts */
-
-.site-links {
-    margin: 0 1em;
-
-}
-.site-links a {
-    display: block;
-    margin: 1em;
-}
-.site-links a :hover{
-    margin: 2.5em;
-}
-
-
 /*-------------------------->
     MAIN CONTENT
 ----------------------------*/
 .main {
     background-color: darksalmon;
     margin-left: 300px;
-    padding: em;
+    padding: 10em;
 
     overflow: auto;   
 }
