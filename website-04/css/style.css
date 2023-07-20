@@ -99,7 +99,7 @@ body {
     margin-left: 300px;
     border: 2px solid;
     float: center;
-    width: 355px;
+    width: 35px;
    
 }  
 .charactergallery: hover {
@@ -115,7 +115,7 @@ body {
     margin-left: 300px;
     border: 2px solid;
     float: left;
-    width: 279px;
+    width: 280px;
    
 }  
 .artgallery: hover {
@@ -146,7 +146,24 @@ body {
     background-color: aqua;
     padding: 10px;
     text-align: center;
-
+}
+div.gallery {
+    border: 1px solid #ccc;
+}
+  
+div.gallery:hover {
+    border: 1px solid #777;
+}
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+  
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
 
 * {
     box-sizing: border-box;
