@@ -111,12 +111,22 @@ body {
     height: auto%;
 
 }
-  
-.desc {
-    background-color: aqua;
-    padding: 10px;
-    text-align: center;
+.artgallery {
+    margin-left: 300px;
+    border: 2px solid;
+    float: left;
+    width: 350px;
+   
+}  
+.artgallery: hover {
+    border: 3px solid #777;
 }
+  
+.artgallery: img {
+    width: 100%;
+    height: auto;
+} 
+
 .logogallery {
     margin-left: 300px;
     border: 2px solid;
